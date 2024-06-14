@@ -1,2 +1,2 @@
-# TSL_Study
-Turkish Sign Lanugage analysis with Deep Learning
+# TSL Study
+Stuydt fpr Turkish Sign Lanugage analysis with Deep Learning, ı used different models to analyse and classify tsl. Best performance models are VGG16, MobileNetv1 and InceptionV3. İn further studies theese 3 models were used in an ensemble model. All model were used with transfer learning and also developed a model based on AlexNet architecture, completely from scratch. Performance of ensemble model was %100 for analyzing performance of  ensemble learning createde a new test dataset. New dataset was 50/50 of unseen and seen test data. ensemble model showed %76 performance. 
